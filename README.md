@@ -5,3 +5,12 @@ Generate Gif From Image https://chat.openai.com/g/g-gbjSvXu6i-gif-pt by (Nick)[h
 Immigration Service And Green Card https://chat.openai.com/g/g-LIb0ywaxQ-uscis-info-navigator https://twitter.com/Karmedge
 Levels.FYI https://chat.openai.com/g/g-yUh3EEQan-levels-fyi-gpt https://twitter.com/zuhayeer
 
+GPT Teacher https://twitter.com/ronaldmannak  https://chat.openai.com/g/g-zP1kULSr8-gpt-teacher
+
+BugBountyGPT: AppSec & Bug Bounty by Andrew Brown
+Ben's Bites GPT: Latest AI News and Product Launches by Ben Tossell
+
+
+
+
+
